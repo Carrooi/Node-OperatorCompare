@@ -1,0 +1,28 @@
+{
+	"name": "operator-compare",
+	"description": "Comparing two variables with operator as argument",
+	"version": "1.0.0",
+	"author": {
+		"name": "David Kudera",
+		"email": "sakren@gmail.com"
+	},
+	"keywords": [
+		"operator",
+		"compare"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:sakren/node-simq.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	},
+	"main": "./lib/Compare.js",
+	"devDependencies": {
+		"should": "1.2.2"
+	},
+	"scripts": {
+		"test": "cd ./test; mocha ./index.js;"
+	}
+}
