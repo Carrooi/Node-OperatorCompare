@@ -24,12 +24,12 @@ There are just classic operators with some others.
 ```
    Operator   |   Equivalent
 --------------+----------------
-	  >		  |		  >
-	  >=	  |		  >=
-	  <		  |		  <
-	  <=	  |		  <=
-	 =, ==	  |		 ===
-   !, !=, <>  |		 !==
+      >       |          >
+      >=      |          >=
+      <       |          <
+      <=      |          <=
+     =, ==    |         ===
+   !, !=, <>  |         !==
 ```
 
 Last two lines are sets of operators, so operator `<>` is the same one as `!=`.
@@ -37,6 +37,9 @@ Last two lines are sets of operators, so operator `<>` is the same one as `!=`.
 If you will try to set some unknown operator, exception will be thrown.
 
 ## Changelog
+
+* 1.1.1
+	+ Typo in readme
 
 * 1.0.0
 	+ Initial commit
