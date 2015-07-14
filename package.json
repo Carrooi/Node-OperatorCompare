@@ -20,9 +20,10 @@
 	},
 	"main": "./lib/Compare.js",
 	"devDependencies": {
-		"should": "1.2.2"
+		"mocha": "~2.2.0",
+		"should": "~7.0.0"
 	},
 	"scripts": {
-		"test": "cd ./test; mocha ./index.js;"
+		"test": "node ./node_modules/.bin/mocha ./test/index.js"
 	}
 }
