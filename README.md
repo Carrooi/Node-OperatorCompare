@@ -1,5 +1,9 @@
 # operator-compare
 
+[![NPM version](https://img.shields.io/npm/v/operator-compare.svg?style=flat-square)](http://badge.fury.io/js/operator-compare)
+[![Dependency Status](https://img.shields.io/gemnasium/Carrooi/Node-OperatorCompare.svg?style=flat-square)](https://gemnasium.com/Carrooi/Node-OperatorCompare)
+[![Build Status](https://img.shields.io/travis/Carrooi/Node-OperatorCompare.svg?style=flat-square)](https://travis-ci.org/Carrooi/Node-OperatorCompare)
+
 Comparing two variables with operator as argument.
 
 ## Usage
