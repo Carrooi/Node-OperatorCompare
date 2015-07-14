@@ -1,6 +1,6 @@
 var should = require('should');
 
-var compare = require('../lib/Compare');
+var compare = require('../src/Compare');
 
 describe('Compare', function() {
 

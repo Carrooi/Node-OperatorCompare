@@ -18,7 +18,7 @@
 	"engines": {
 		"node": "*"
 	},
-	"main": "./lib/Compare.js",
+	"main": "./src/Compare.js",
 	"devDependencies": {
 		"mocha": "~2.2.0",
 		"should": "~7.0.0"
