@@ -2,10 +2,6 @@
 
 Comparing two variables with operator as argument.
 
-## Changelog
-
-Changelog is in the bottom of this readme.
-
 ## Usage
 
 ```
@@ -38,7 +34,7 @@ If you will try to set some unknown operator, exception will be thrown.
 
 ## Changelog
 
-* 1.1.1
+* 1.0.1
 	+ Typo in readme
 
 * 1.0.0
