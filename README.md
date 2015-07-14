@@ -48,6 +48,14 @@ If you will try to set some unknown operator, exception will be thrown.
 
 ## Changelog
 
+* 1.0.2
+	+ Move under Carrooi organization
+	+ Abandon repository
+	+ Rewrite to pure javascript
+	+ Fix typos
+	+ Add to travis
+	+ Update dependencies
+
 * 1.0.1
 	+ Typo in readme
 
