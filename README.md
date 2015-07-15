@@ -6,11 +6,9 @@
 
 [![Donate](https://img.shields.io/badge/donate-PayPal-brightgreen.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7MLNUGKRU7XQU)
 
-## Help
+## Abandoned
 
 Unfortunately I don't have any more time to maintain this repository :-( 
-
-Don't you want to save me and this project by taking over it?
 
 ![sad cat](https://raw.githubusercontent.com/sakren/sakren.github.io/master/images/sad-kitten.jpg)
 
@@ -47,6 +45,9 @@ Last two lines are sets of operators, so operator `<>` is the same one as `!=`.
 If you will try to set some unknown operator, exception will be thrown.
 
 ## Changelog
+
+* 1.0.3
+	+ Abandon project
 
 * 1.0.2
 	+ Move under Carrooi organization
